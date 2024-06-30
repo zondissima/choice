@@ -1,6 +1,12 @@
 # The Choice
 The Choice is a game where two player get throught a number of options to select the best one
 
+## Demo
+There is new a demo of this game: http://zondissima.free.nf. 
+
+Other than the "fruits" demo set, you can try the set "k5". See below how to activate it.
+
+
 ## How to play
 * The first player access the game and clicks "start"
 * A link to send to the second player is generated
